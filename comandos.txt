@@ -1,0 +1,5 @@
+git clone https://github.com/ivansamuelsantos/WEB001_AF.git
+git add nome.txt
+git add comandos.txt
+git commit -m "Arquivos prova final"
+git push origin master
